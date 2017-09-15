@@ -1,3 +1,3 @@
 # Sample asset for ARKit
 
-[Preview here](https://www.google.com)
+[Preview here](https://github.com/normanwang/scnassets/raw/master/art.scnassets)
